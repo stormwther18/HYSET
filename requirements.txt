@@ -1,0 +1,6 @@
+torch==2.2.0
+transformers==4.45.2
+numpy==1.26.4
+safetensors==0.4.5
+sentencepiece==0.2.0
+openai==1.30.5
