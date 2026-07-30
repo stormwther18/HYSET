@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use HYSET in academic work, please cite the following."
+title: "Tools Are Not Islands: Set-Level Tool Retrieval for LLM Agents via Query-Conditioned Hyperedge Prediction"
+authors:
+  - family-names: Hong
+    given-names: Xinyi
+  - family-names: Dong
+    given-names: Pinjun
+  - family-names: Yu
+    given-names: Xinyang
+  - family-names: Jiang
+    given-names: Binyan
+year: 2026
+type: article
+notes: "Preprint."
+preferred-citation:
+  type: article
+  title: "Tools Are Not Islands: Set-Level Tool Retrieval for LLM Agents via Query-Conditioned Hyperedge Prediction"
+  authors:
+    - family-names: Hong
+      given-names: Xinyi
+    - family-names: Dong
+      given-names: Pinjun
+    - family-names: Yu
+      given-names: Xinyang
+    - family-names: Jiang
+      given-names: Binyan
+  year: 2026
+  notes: "Preprint."

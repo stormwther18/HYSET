@@ -1,0 +1,59 @@
+# --- Environments / secrets ---
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+
+# --- Python ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+build/
+dist/
+
+# --- Node / frontend ---
+node_modules/
+webdemo/frontend/dist/
+webdemo/frontend/*.tsbuildinfo
+.vercel/
+
+# --- Model artifacts (hosted on Hugging Face / Google Drive) ---
+checkpoints/
+*.pt
+*.pth
+*.bin
+*.safetensors
+
+# --- Bulk data (hosted on Google Drive / ToolBench upstream) ---
+data/instruction/
+data/answer/
+data/toolenv/
+data/cache/
+data/hard_neg_cache.json
+data/reward_cache.json
+data/toolllama_G123_dfs_train.json
+data/toolllama_G123_dfs_eval.json
+
+# --- Experiment outputs ---
+logs/
+outputs/
+result/
+results/
+runs/
+
+# --- Editor / OS ---
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+*.swo

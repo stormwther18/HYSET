@@ -1,0 +1,6 @@
+[submodule "external/toolbench"]
+	path = external/toolbench
+	url = https://github.com/OpenBMB/ToolBench.git
+[submodule "external/stabletoolbench"]
+	path = external/stabletoolbench
+	url = https://github.com/THUNLP-MT/StableToolBench.git
