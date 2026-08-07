@@ -216,11 +216,11 @@ HYSET stands on [ToolBench](https://github.com/OpenBMB/ToolBench), which supplie
 ## 📚 Citation
 
 ```bibtex
-@misc{hong2026hyset,
+@article{hong2026tools,
   title={Tools Are Not Islands: Set-Level Tool Retrieval for LLM Agents via Query-Conditioned Hyperedge Prediction},
   author={Hong, Xinyi and Dong, Pinjun and Yu, Xinyang and Jiang, Binyan},
-  year={2026},
-  note={Preprint}
+  journal={arXiv preprint arXiv:2607.25718},
+  year={2026}
 }
 ```
 
