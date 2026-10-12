@@ -24,7 +24,7 @@ Large language model agents increasingly rely on invoking external tools to comp
 
 ## 📰 News
 
-
+- **2026-10-09** — 🥳 We are honored to have HYSET featured in [*The Batch* (Issue 374)](https://www.deeplearning.ai/the-batch/issue-374), the AI newsletter from Andrew Ng's DeepLearning.AI, under [“Pick the Right Tools for the Right Job”](https://www.deeplearning.ai/the-batch/issue-374#pick-the-right-tools-for-the-right-job), alongside coverage of OpenAI's GPT-6.1 Sol, Google's Gemini 4 Argon, and Black Forest Labs' FLUX 3 Action. We sincerely thank Andrew Ng and the DeepLearning.AI editorial team for the thoughtful coverage and clear technical explanation of our work!
 - **2026-07-30** — Released the <a href="https://arxiv.org/abs/2607.25718">arXiv preprint</a>.
 - **2026-07-25** — Published the first public release, including the HYSET core implementation, the 13,860-tool corpus, the six official ToolBench test splits, and unit tests.
 - **2026-07-16** — Launched the <a href="https://stormwther18-hyset-demo.hf.space">live demo</a>.
